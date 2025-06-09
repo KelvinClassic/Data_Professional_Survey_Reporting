@@ -1,0 +1,17 @@
+{
+  "name": "NewExecutive",
+  "dataColors": [
+    "#3257A8",
+    "#37A794",
+    "#874D4D",
+    "#134767",
+    "#6B91C9",
+    "#F5C869",
+    "#77C4A8",
+    "#DEA6CF"
+  ],
+  "tableAccent": "#3257A8",
+  "maximum": "#3257A8",
+  "center": "#DD6B7F",
+  "minimum": "#D1DBF1"
+}

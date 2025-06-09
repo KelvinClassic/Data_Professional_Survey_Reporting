@@ -1,0 +1,5 @@
+relationship 5d69363c-451a-4a6b-b10e-b3e7702c64a1
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Data Professional Survey'.'Date Taken (America/New_York)'
+	toColumn: LocalDateTable_151810ec-48b9-4c72-854f-a83493f8f329.Date
+
